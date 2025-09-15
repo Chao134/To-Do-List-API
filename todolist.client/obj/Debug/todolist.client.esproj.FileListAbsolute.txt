@@ -1,0 +1,1 @@
+C:\Users\cchao\Source\Repos\To-Do-List-API\todolist.client\obj\Debug\todolist.client.esproj.CoreCompileInputs.cache

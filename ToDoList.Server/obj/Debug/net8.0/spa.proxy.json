@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:56970",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\cchao\\Source\\Repos\\To-Do-List-API\\ToDoList.Server\\..\\todolist.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03D08DBD-341C-4F73-B16C-81485D94F144}|ToDoList.Server\\ToDoList.Server.csproj|c:\\users\\cchao\\source\\repos\\to-do-list-api\\todolist.server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{03D08DBD-341C-4F73-B16C-81485D94F144}|ToDoList.Server\\ToDoList.Server.csproj|solutionrelative:todolist.server\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|c:\\users\\cchao\\source\\repos\\to-do-list-api\\todolist.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|solutionrelative:todolist.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|c:\\users\\cchao\\source\\repos\\to-do-list-api\\todolist.client\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|solutionrelative:todolist.client\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|c:\\users\\cchao\\source\\repos\\to-do-list-api\\todolist.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|solutionrelative:todolist.client\\vite.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|c:\\users\\cchao\\source\\repos\\to-do-list-api\\todolist.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|solutionrelative:todolist.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|c:\\users\\cchao\\source\\repos\\to-do-list-api\\todolist.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|solutionrelative:todolist.client\\eslint.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D08DBD-341C-4F73-B16C-81485D94F144}|ToDoList.Server\\ToDoList.Server.csproj|c:\\users\\cchao\\source\\repos\\to-do-list-api\\todolist.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D08DBD-341C-4F73-B16C-81485D94F144}|ToDoList.Server\\ToDoList.Server.csproj|solutionrelative:todolist.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03D08DBD-341C-4F73-B16C-81485D94F144}|ToDoList.Server\\ToDoList.Server.csproj|c:\\users\\cchao\\source\\repos\\to-do-list-api\\todolist.server\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03D08DBD-341C-4F73-B16C-81485D94F144}|ToDoList.Server\\ToDoList.Server.csproj|solutionrelative:todolist.server\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|c:\\users\\cchao\\source\\repos\\to-do-list-api\\todolist.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|solutionrelative:todolist.client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|c:\\users\\cchao\\source\\repos\\to-do-list-api\\todolist.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|solutionrelative:todolist.client\\src\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|c:\\users\\cchao\\source\\repos\\to-do-list-api\\todolist.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{977CDC1D-8F61-05D2-D8B1-91BF49DABD14}|todolist.client\\todolist.client.esproj|solutionrelative:todolist.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "vite.config.ts",
+              "DocumentMoniker": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\vite.config.ts",
+              "RelativeDocumentMoniker": "todolist.client\\vite.config.ts",
+              "ToolTip": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\vite.config.ts",
+              "RelativeToolTip": "todolist.client\\vite.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-15T12:14:30.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\.env",
+              "RelativeDocumentMoniker": "todolist.client\\.env",
+              "ToolTip": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\.env",
+              "RelativeToolTip": "todolist.client\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-15T11:59:15.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "todolist.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\src\\App.tsx",
+              "RelativeToolTip": "todolist.client\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-15T10:34:47.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\src\\index.css",
+              "RelativeDocumentMoniker": "todolist.client\\src\\index.css",
+              "ToolTip": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\src\\index.css",
+              "RelativeToolTip": "todolist.client\\src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-15T10:13:24.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\src\\App.css",
+              "RelativeDocumentMoniker": "todolist.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\src\\App.css",
+              "RelativeToolTip": "todolist.client\\src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-12T15:13:36.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\ToDoList.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoList.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\ToDoList.Server\\Program.cs",
+              "RelativeToolTip": "ToDoList.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T14:23:04.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\ToDoList.Server\\Dockerfile",
+              "RelativeDocumentMoniker": "ToDoList.Server\\Dockerfile",
+              "ToolTip": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\ToDoList.Server\\Dockerfile",
+              "RelativeToolTip": "ToDoList.Server\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-12T14:21:56.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "todolist.client\\tsconfig.json",
+              "ToolTip": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\tsconfig.json",
+              "RelativeToolTip": "todolist.client\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-12T13:04:01.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "eslint.config.js",
+              "DocumentMoniker": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\eslint.config.js",
+              "RelativeDocumentMoniker": "todolist.client\\eslint.config.js",
+              "ToolTip": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\eslint.config.js",
+              "RelativeToolTip": "todolist.client\\eslint.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-09-12T12:57:13.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\index.html",
+              "RelativeDocumentMoniker": "todolist.client\\index.html",
+              "ToolTip": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\todolist.client\\index.html",
+              "RelativeToolTip": "todolist.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-11T23:28:50.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\ToDoList.Server\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "ToDoList.Server\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\cchao\\source\\repos\\To-Do-List-API\\ToDoList.Server\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "ToDoList.Server\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T21:28:25.514Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 984,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

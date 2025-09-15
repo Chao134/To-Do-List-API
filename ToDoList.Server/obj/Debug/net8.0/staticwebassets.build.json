@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GA4uDjAw1AxwyE+5grQv4zdZHUPh41ZtURMcSSz/hus=",
+  "Source": "ToDoList.Server",
+  "BasePath": "_content/ToDoList.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
