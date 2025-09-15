@@ -69,6 +69,7 @@ namespace ToDoList.Server.Controllers
         /// </summary>
         /// <param name="id">The GUID of the Task to update</param>
         /// <param name="task">Task object holding all the updated properties.</param>
+        /// <exception cref="400">If <paramref name="id"/> and <paramref name="task"/>.id do not match</exception>
         /// <exception cref="404">If a Task matching <paramref name="id"/> is not found</exception>
         /// <returns>The updated <paramref name="task"/> object</returns>
         [HttpPut("{id}")]

@@ -182,12 +182,6 @@ export default function App() {
             }
         }
 
-        //const handleBlurSave = () => {
-        //    if (editingTask) {
-        //        handleUpdateTask(editingTask);
-        //    }
-        //}
-
         return (
             <li className="items-center p-3 transition-colors duration-200 bg-white dark:bg-gray-800 rounded-lg shadow-sm hover:bg-gray-50 dark:hover:bg-gray-700/50 group">
                 {isEditing ? (
@@ -337,7 +331,7 @@ export default function App() {
                 </main>
 
                 <footer className="text-center mt-8 text-sm text-gray-400 dark:text-gray-500">
-                    <p>Connects to ASP.NET Core backend API on port 8081 over SSL.</p>
+                    <p>Connects to ASP.NET Core backend API on port 8081 over TLS.</p>
                     <p>Hover over a task to see the edit and delete buttons.</p>
                 </footer>
             </div>
