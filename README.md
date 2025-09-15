@@ -24,7 +24,7 @@ Setup Methods to run locally through Command Prompt:
 7. Go to the To-Do-List-API directory using the cd command.
 8. ```cd todolist.client```
 9.```set PORT=64163 && npm start```
-10. The React app should be at https://localhost:64163 and the API's swagger page at https://localhost:8081
+10. The React app should be at https://localhost:64163 and the API's swagger page at https://localhost:8081/swagger/index.html
 
 Additional Notes:
 I was originally planning on having the front end and API in separate Docker images to make setup and build simpler, but I have never used Docker with a React app before, so I was having trouble getting them to communicate properly, and ultimately left it out of this submission. If I had more time, that would be what I would have spent it trying to fix.
