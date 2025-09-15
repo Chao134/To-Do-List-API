@@ -2,9 +2,12 @@
 To Do List API for Interview take-home test
 ______________________________________________________________________________________________________________
 Setup Method to run locally through Visual Studio + Docker Desktop (how I did testing during development)
-1. Requires Docker Desktop installed
+1. Requires Docker Desktop installed with Windows Subsystem Linux Install Link: https://docs.docker.com/desktop/setup/install/windows-install/
 2. Download or clone the repository and press "Start" in Visual Studio targeting the Debug and trust the generated self-signed TLS certificate if a notification of such appears.
-3. Visual Studio should create a Docker image + container running the API, alongside the React front end running simultaneously.
+
+   <img width="298" height="39" alt="image" src="https://github.com/user-attachments/assets/a767db49-ec68-4154-8052-b406f3d360b7" />
+
+4. Visual Studio should create a Docker image + container running the API, alongside the React front end running simultaneously. The front-end gets built and run first, so just refresh the page once the API's swagger page pops up.
 
 Setup Methods to run locally through Command Prompt:
 1. Open Command Prompt.
@@ -21,6 +24,7 @@ Setup Methods to run locally through Command Prompt:
 7. Go to the To-Do-List-API directory using the cd command.
 8. ```cd todolist.client```
 9.```set PORT=64163 && npm start```
+10. The React app should be at https://localhost:64163 and the API's swagger page at https://localhost:8081
 
 Additional Notes:
 I was originally planning on having the front end and API in separate Docker images to make setup and build simpler, but I have never used Docker with a React app before, so I was having trouble getting them to communicate properly, and ultimately left it out of this submission. If I had more time, that would be what I would have spent it trying to fix.
