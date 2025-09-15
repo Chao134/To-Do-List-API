@@ -9,7 +9,7 @@ var configuration = builder.Configuration;
 var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
 // Add services to the container.
-var connection = new SqliteConnection("Data Source=DefaultConnection");
+var connection = new SqliteConnection(builder.Configuration.GetConnectionString("DefaultConnection"));
 connection.Open(); // Keep the connection open to keep the database alive between API calls
 
 builder.Services.AddDbContext<TaskDbContext>(options =>
